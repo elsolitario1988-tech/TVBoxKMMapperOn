@@ -1,0 +1,46 @@
+# Gradle files
+.gradle/
+build/
+*/build/
+*.apk
+*.ap_
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+out/
+
+# Android
+.classpath
+.project
+.settings/
+
+# IntelliJ
+*.iml
+*.iws
+*.ipr
+.idea/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log Files
+*.log
+*.txt
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+.cxx/
+
+# Google Services (if ever added)
+google-services.json
+
+# App Signing
+app/signing/

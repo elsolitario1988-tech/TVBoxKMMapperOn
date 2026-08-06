@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TVBox KM Mapper</string>
+    <string name="app_description">Mapeador de teclado y mouse para TV Box</string>
+
+    <!-- Títulos de pantallas -->
+    <string name="title_main">Monitor de Entrada</string>
+    <string name="title_profiles">Perfiles por Aplicación</string>
+    <string name="title_key_remapping">Remapeo de Teclas</string>
+    <string name="title_settings">Configuración</string>
+
+    <!-- Labels generales -->
+    <string name="label_connected_devices">Dispositivos Conectados</string>
+    <string name="label_keyboard">Teclado</string>
+    <string name="label_mouse">Mouse</string>
+    <string name="label_last_key_pressed">Última Tecla Presionada</string>
+    <string name="label_mouse_position">Posición del Mouse</string>
+    <string name="label_mouse_button">Botón del Mouse</string>
+    <string name="label_scroll_direction">Dirección del Scroll</string>
+    <string name="label_scroll_up">Scroll Arriba</string>
+    <string name="label_scroll_down">Scroll Abajo</string>
+
+    <!-- Botones -->
+    <string name="btn_start_monitoring">Iniciar Monitoreo</string>
+    <string name="btn_stop_monitoring">Detener Monitoreo</string>
+    <string name="btn_clear_log">Borrar Registro</string>
+    <string name="btn_add_profile">Agregar Perfil</string>
+    <string name="btn_edit">Editar</string>
+    <string name="btn_delete">Eliminar</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_apply">Aplicar</string>
+    <string name="btn_remap_key">Remapear Tecla</string>
+    <string name="btn_reset_mapping">Restablecer Mapeo</string>
+
+    <!-- Configuración -->
+    <string name="pref_autostart">Iniciar automáticamente</string>
+    <string name="pref_autostart_desc">Iniciar el monitoreo al encender el TV Box</string>
+    <string name="pref_mouse_sensitivity">Sensibilidad del Mouse</string>
+    <string name="pref_mouse_sensitivity_desc">Ajusta la velocidad de movimiento del mouse</string>
+    <string name="pref_cursor_speed">Velocidad del Cursor</string>
+    <string name="pref_cursor_speed_desc">Velocidad de desplazamiento del cursor</string>
+    <string name="pref_scroll_speed">Velocidad del Scroll</string>
+    <string name="pref_scroll_speed_desc">Velocidad de desplazamiento con scroll</string>
+    <string name="pref_show_notifications">Mostrar notificaciones</string>
+    <string name="pref_show_notifications_desc">Mostrar notificaciones de entrada detectada</string>
+    <string name="pref_theme">Tema</string>
+    <string name="pref_theme_dark">Oscuro</string>
+    <string name="pref_theme_system">Sistema</string>
+
+    <!-- Mensajes -->
+    <string name="msg_no_devices">No hay dispositivos USB conectados</string>
+    <string name="msg_devices_connected">Dispositivos conectados: %1$d</string>
+    <string name="msg_keyboard_detected">Teclado detectado: %s</string>
+    <string name="msg_mouse_detected">Mouse detectado: %s</string>
+    <string name="msg_profile_saved">Perfil guardado correctamente</string>
+    <string name="msg_profile_deleted">Perfil eliminado</string>
+    <string name="msg_remapping_active">Remapeo activo</string>
+    <string name="msg_waiting_for_key">Esperando entrada de teclado...</string>
+    <string name="msg_monitoring_active">Monitoreo activo</string>
+    <string name="msg_monitoring_stopped">Monitoreo detenido</string>
+
+    <!-- Estados -->
+    <string name="status_connected">Conectado</string>
+    <string name="status_disconnected">Desconectado</string>
+    <string name="status_monitoring">Monitoreando</string>
+    <string name="status_idle">Inactivo</string>
+
+    <!-- Perfiles -->
+    <string name="label_app_name">Nombre de la Aplicación</string>
+    <string name="label_app_package">Paquete de la Aplicación</string>
+    <string name="label_profile_name">Nombre del Perfil</string>
+    <string name="label_profile_description">Descripción</string>
+
+    <!-- Accesibilidad -->
+    <string name="accessibility_service_description">Servicio para monitoreo de entrada de teclado y mouse</string>
+    <string name="accessibility_permission_required">Se requiere permiso de Accesibilidad</string>
+
+    <!-- Notificaciones -->
+    <string name="notification_channel_input">Entrada de Dispositivos</string>
+    <string name="notification_channel_service">Servicio de Monitoreo</string>
+    <string name="notification_title">TVBox KM Mapper - Activo</string>
+    <string name="notification_message">Monitoreando entrada de teclado y mouse</string>
+
+</resources>

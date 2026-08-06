@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design 3 - Paleta oscura -->
+    <!-- Colores primarios -->
+    <color name="md_theme_dark_primary">#FFB3E5FC</color>
+    <color name="md_theme_dark_on_primary">#00364C</color>
+    <color name="md_theme_dark_primary_container">#004F6D</color>
+    <color name="md_theme_dark_on_primary_container">#E1F0FF</color>
+
+    <!-- Colores secundarios -->
+    <color name="md_theme_dark_secondary">#FFC7C7FF</color>
+    <color name="md_theme_dark_on_secondary">#2C0D4C</color>
+    <color name="md_theme_dark_secondary_container">#44216F</color>
+    <color name="md_theme_dark_on_secondary_container">#FADEFF</color>
+
+    <!-- Colores terciarios -->
+    <color name="md_theme_dark_tertiary">#FFB4E9FF</color>
+    <color name="md_theme_dark_on_tertiary">#003545</color>
+    <color name="md_theme_dark_tertiary_container">#004F62</color>
+    <color name="md_theme_dark_on_tertiary_container">#D9F0FF</color>
+
+    <!-- Fondos y superficies -->
+    <color name="md_theme_dark_background">#0F1417</color>
+    <color name="md_theme_dark_on_background">#E8EAED</color>
+    <color name="md_theme_dark_surface">#0F1417</color>
+    <color name="md_theme_dark_on_surface">#E8EAED</color>
+    <color name="md_theme_dark_surface_variant">#4A5259</color>
+    <color name="md_theme_dark_on_surface_variant">#CED0D7</color>
+    <color name="md_theme_dark_outline">#97A1A8</color>
+    <color name="md_theme_dark_outline_variant">#4A5259</color>
+
+    <!-- Estados de error -->
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_on_error">#690005</color>
+    <color name="md_theme_dark_error_container">#93000D</color>
+    <color name="md_theme_dark_on_error_container">#FFDAD6</color>
+
+    <!-- Colores adicionales -->
+    <color name="md_theme_dark_inverse_surface">#E8EAED</color>
+    <color name="md_theme_dark_inverse_on_surface">#2D3134</color>
+    <color name="md_theme_dark_inverse_primary">#1065A0</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+
+    <!-- Colores personalizados para la app -->
+    <color name="accent_blue">#64B5F6</color>
+    <color name="accent_green">#81C784</color>
+    <color name="accent_red">#E57373</color>
+    <color name="accent_yellow">#FFD54F</color>
+    <color name="accent_purple">#BA68C8</color>
+
+    <!-- Colores para status -->
+    <color name="status_connected">#81C784</color>
+    <color name="status_disconnected">#E57373</color>
+    <color name="status_warning">#FFD54F</color>
+
+    <!-- Colores para UI -->
+    <color name="surface_dim">#1a1d20</color>
+    <color name="surface_bright">#3a3f44</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+</resources>

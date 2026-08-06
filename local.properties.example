@@ -1,0 +1,16 @@
+# This file is intentionally checked in to version control so that we can
+# read the SDK location from here instead of from environment variables.
+# https://developer.android.com/studio/command-line/variables
+
+# location of the SDK. This is only used by Gradle
+# For customization when using a Version Control System, please read the
+# header note.
+# Wed Aug 04 2026 12:00:00 GMT-0300
+sdk.dir=/path/to/Android/Sdk
+ndk.dir=/path/to/Android/Sdk/ndk/25.1.8937393
+
+# Keystore para firmar APK (opcional)
+# KEYSTORE_PATH=/path/to/keystore.jks
+# KEYSTORE_PASSWORD=tu_password
+# KEY_ALIAS=tu_alias
+# KEY_PASSWORD=tu_key_password

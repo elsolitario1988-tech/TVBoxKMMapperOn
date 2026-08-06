@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Filtros para detectar teclados y mice USB genéricos -->
+    <!-- Clase 0x03 = HID (Human Interface Device) -->
+    
+    <!-- Teclados USB -->
+    <usb-device class="0x03" subclass="0x01" protocol="0x01" />
+    
+    <!-- Mouse USB -->
+    <usb-device class="0x03" subclass="0x01" protocol="0x02" />
+    
+    <!-- Dispositivos HID genéricos -->
+    <usb-device class="0x03" subclass="0x01" />
+    
+    <!-- Algunos fabricantes de teclados/mouse populares -->
+    <!-- Logitech -->
+    <usb-device vendor-id="0x046d" />
+    
+    <!-- Microsoft -->
+    <usb-device vendor-id="0x045e" />
+    
+    <!-- Apple -->
+    <usb-device vendor-id="0x05ac" />
+    
+    <!-- Corsair -->
+    <usb-device vendor-id="0x1b1c" />
+    
+    <!-- Razer -->
+    <usb-device vendor-id="0x1532" />
+    
+    <!-- SteelSeries -->
+    <usb-device vendor-id="0x1038" />
+    
+</resources>
